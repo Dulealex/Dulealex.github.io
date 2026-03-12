@@ -217,7 +217,7 @@ The combination of reliable access, clean structured data, and the ability to ch
 
 If you're interested in the full code for the reading pipeline I described, or want to see how I integrated it with Obsidian for note-taking, let me know in the comments.
 
-https://serpapi.com/
+[Google Scholar API from SerpApi](https://serpapi.com/google-scholar-api)
 ---
 
 *Thanks for reading. If you found this useful, feel free to share it with your lab mates or research group. The best paper reading workflow is the one you actually use.*
